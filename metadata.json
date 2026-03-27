@@ -1,0 +1,5 @@
+{
+  "name": "multi-tenant-crm",
+  "description": "A scalable multi-tenant CRM for companies and admins with reception and doctor flows.",
+  "requestFramePermissions": []
+}
